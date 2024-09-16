@@ -5,8 +5,7 @@
 ![dino](https://github.com/user-attachments/assets/852a04d1-94d4-42ff-864c-d0d63c9998fa)
 
 Welcome to my GitHub! I'm passionate about pushing the boundaries of technology with **Quantum Computing**, **Artificial Intelligence**, and **Cloud Computing**.
-<!-- <img width="1044" alt="image" src="https://github.com/user-attachments/assets/8fca0a2f-f17d-454a-8146-9a0d5e0726ff"> -->
-<img src="https://github.com/user-attachments/assets/8fca0a2f-f17d-454a-8146-9a0d5e0726ff" alt="image" width="300" height="200">
+<img width="1044" alt="image" src="https://github.com/user-attachments/assets/8fca0a2f-f17d-454a-8146-9a0d5e0726ff">
 
 🎓 **About Me** 
 - I’m currently pursuing my **Master’s in Electrical and Computer Engineer** at **Georgia Tech**, focusing on **Quantum Computing**, **Cloud Computing**, and **AI-based applications**.  
