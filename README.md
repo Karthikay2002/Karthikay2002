@@ -1,8 +1,12 @@
 ### 👋 Hey there! I'm Karthikay Gundepudi
 
-Welcome to my GitHub! I'm passionate about pushing the boundaries of technology with **Quantum Computing**, **Artificial Intelligence**, and **Cloud Computing**.
-<img width="1044" alt="image" src="https://github.com/user-attachments/assets/8fca0a2f-f17d-454a-8146-9a0d5e0726ff">
 
+### hehe
+![dino](https://github.com/user-attachments/assets/852a04d1-94d4-42ff-864c-d0d63c9998fa)
+
+Welcome to my GitHub! I'm passionate about pushing the boundaries of technology with **Quantum Computing**, **Artificial Intelligence**, and **Cloud Computing**.
+<!-- <img width="1044" alt="image" src="https://github.com/user-attachments/assets/8fca0a2f-f17d-454a-8146-9a0d5e0726ff"> -->
+<img src="https://github.com/user-attachments/assets/8fca0a2f-f17d-454a-8146-9a0d5e0726ff" alt="image" width="300" height="200">
 
 🎓 **About Me** 
 - I’m currently pursuing my **Master’s in Electrical and Computer Engineer** at **Georgia Tech**, focusing on **Quantum Computing**, **Cloud Computing**, and **AI-based applications**.  
@@ -16,8 +20,12 @@ Welcome to my GitHub! I'm passionate about pushing the boundaries of technology 
 - My focus is on building **real-world applications** that solve complex problems in areas like **cybersecurity**, **finance**, and **Medical Biology**.
 
 💡 **Current Projects**  
-- Exploring **Quantum Cryptography** and how it can shape the future of secure communications.  
-- Working on **AI-based resume ranking systems**, leveraging **large language models** to help job seekers and recruiters find the right match.  
+- **Quantum Cryptography for Cybersecurity**: Exploring how **Quantum Cryptography** can be applied to enhance secure communication protocols and protect against future quantum-based attacks.
+  
+- **Quantum Machine Learning for Finance**: Developing **Quantum Machine Learning** models to optimize financial processes, such as **portfolio management**, **risk assessment**, and **fraud detection**, leveraging the power of quantum computing for more efficient financial decision-making.
+
+- **Large Language Models (LLMs) and Autonomous Agents**: Building **AI agents** using **LLMs** to automate complex workflows, improve task execution, and create conversational AI systems that can handle real-world challenges autonomously across various industries.
+
 - Developing **AI-powered applications** that optimize decision-making processes in **finance** and **logistics**.
 
 ⚡ **What drives me**  
@@ -32,5 +40,3 @@ Welcome to my GitHub! I'm passionate about pushing the boundaries of technology 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karthikay)
 - Drop me a message if you want to chat about tech, science, or the future of innovation!
 
-### hehe
-![dino](https://github.com/user-attachments/assets/852a04d1-94d4-42ff-864c-d0d63c9998fa)
