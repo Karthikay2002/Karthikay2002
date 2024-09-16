@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm passionate about pushing the boundaries of technology 
 - With a **Bachelors in Electronics and Communications Engineering** from **SRM University-AP**.
 
 📍 **Location** 
-- **Atlanta, Georgia** 🍕 Let's meet and catch up over a pizza!
+- **Midtown Atlanta, Georgia** 🍕 Let's meet and catch up over a pizza!
 
 🚀 **What I do**  
 - I love working on **innovative solutions** at the intersection of **AI, Quantum Computing, and Cloud Technologies**.  
