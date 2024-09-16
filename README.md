@@ -1,6 +1,4 @@
 ### 👋 Hey there! I'm Karthikay Gundepudi
-
-
 ### hehe
 ![dino](https://github.com/user-attachments/assets/852a04d1-94d4-42ff-864c-d0d63c9998fa)
 
