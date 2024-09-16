@@ -9,7 +9,6 @@ Welcome to my GitHub! I'm passionate about pushing the boundaries of technology 
 
 🎓 **About Me** 
 - I’m currently pursuing my **Master’s in Electrical and Computer Engineer** at **Georgia Tech**, focusing on **Quantum Computing**, **Cloud Computing**, and **AI-based applications**.  
-- With a **Bachelors in Electronics and Communications Engineering** from **SRM University-AP**.
 
 📍 **Location** 
 - **Midtown Atlanta, Georgia** 🍕 Let's meet and catch up over a pizza!
