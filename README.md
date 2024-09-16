@@ -1,3 +1,3 @@
-# karthikaygundepudi
+# Karthikay Gundepudi
 
 Hi there 👋
