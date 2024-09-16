@@ -1,5 +1,5 @@
 ### 👋 Hey there! I'm Karthikay Gundepudi
-### hehe
+### hehe =)
 ![dino](https://github.com/user-attachments/assets/852a04d1-94d4-42ff-864c-d0d63c9998fa)
 
 Welcome to my GitHub! I'm passionate about pushing the boundaries of technology with **Quantum Computing**, **Artificial Intelligence**, and **Cloud Computing**.
